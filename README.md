@@ -120,6 +120,11 @@ The script uses the following npm packages:
 - @xenova/transformers
 - date-fns
 
+## What's Next
+- [ ] Hourly summary created
+- [ ] Daily summary created from hourly summary rollup
+- [ ] Router via Claude request to pick what type of search to do (ex: target daily summary information or target hourly summary information)
+
 ## 📜 License
 
 Copyright Digital Suraface Labs, Inc.
