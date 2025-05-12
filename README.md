@@ -122,4 +122,11 @@ The script uses the following npm packages:
 
 ## 📜 License
 
-Digital Suraface Labs, Inc.
+Copyright Digital Suraface Labs, Inc.
+
+## Did this make your day better? 
+Help me buy a coffee ($5) or another pair of running shoes ($120):
+
+https://www.paypal.biz/digitalsurfacelabs
+
+Thanks! Joe - joe@digitalsurfacelabs.com
