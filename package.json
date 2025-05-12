@@ -1,0 +1,26 @@
+{
+  "name": "digital-surface",
+  "version": "1.0.0",
+  "description": "A productivity tracking tool using Claude to analyze your screen activity",
+  "main": "screen-track.js",
+  "type": "module",
+  "scripts": {
+    "start": "node screen-track.js"
+  },
+  "keywords": [
+    "productivity",
+    "screenshot",
+    "claude",
+    "anthropic",
+    "tracking"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.11.0",
+    "@xenova/transformers": "^2.8.0",
+    "date-fns": "^2.30.0",
+    "dotenv": "^16.3.1",
+    "screenshot-desktop": "^1.15.0"
+  }
+}

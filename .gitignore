@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Screenshots and analysis data
+screenshots/
+screenhistory/
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Database
+db/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.code-workspace
+.history/
