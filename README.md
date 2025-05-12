@@ -1,6 +1,6 @@
 # Digital Surface
 
-Digital Surface captures 1 screenshot each minute. It analyzes each screenshot  Claude, and stores the analyses in a searchable json format. It helps you remember what you were working on at different times and provides insights about your computer usage.
+Digital Surface captures 1 screenshot each minute. It analyzes each screenshot with Claude, and stores the analyses in a searchable json format. It helps you remember what you were working on at different times and provides insights about your computer usage.
 
 ## 🎯 Goal
 
